@@ -1,0 +1,1 @@
+Using Exa and Open AI APIs to fetch recent news articles, transform them into sports narration and then send it to myself via email! 
